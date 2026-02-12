@@ -1,6 +1,6 @@
 // Replace this with your Function App base URL after you deploy the function.
 // Example: https://quotesapp-abcdefg.azurewebsites.net
-const FUNCTION_BASE_URL = "https://quotesapp-g6fwgxdpbhatatdj.francecentral-01.azurewebsites.net";
+const FUNCTION_BASE_URL = "quotesappdemo-h3hjdggeaud6bndq.francecentral-01.azurewebsites.net";
 
 const btn = document.getElementById("btn");
 const quoteEl = document.getElementById("quote");
